@@ -11,7 +11,7 @@ description = "Scott Lin Blog"
 
 ## Set one of:
 # gravatar = "soho@example.com"
-profilePicture = "images/profile.png"
+profilePicture = "images/nobita.jpg"
 
 copyright = "Scott Lin"
 license = "CC BY-SA 4.0"
